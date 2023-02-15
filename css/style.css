@@ -1,0 +1,104 @@
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    background-color: cyan;
+    overflow: hidden;
+    background-color: #00f7ff;
+}
+li{
+    float: left;
+}
+li,a{
+    padding: 20px;
+    margin: 15px;
+    color: #0d2222;
+}
+li a:hover{
+    background-color: darkcyan;
+}
+th,td{
+    border: 2px dotted #ff0073;
+    padding: 10px;
+    margin: 10px;
+    font-family: cursive;
+    font-size: 30px;
+
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+.fruits{
+    border: 3px solid #746ac7;
+    background-color: #ced0ca;
+    color: #1e93d2;
+    text-align: center;
+    margin: 20px;
+}
+.cars{
+    border: 2px solid #227c6f;
+    background-color: #091718;
+    color: #3b5fd5;
+    text-align: center;
+    margin: 20px;
+
+}
+#school{
+    border: #0095ff dotted 3px;
+}
+label {
+    align-content: center;
+    color: #3bb9d5;
+    font-size: 15px;
+    padding: 10px;
+    font-family: cursive;
+}
+
+input  {
+    text-align: center;
+    background-position: center;
+    border-style: solid ;
+    padding: 7px;
+    color: #0c0e0c;
+ width: 95%;
+    border-radius: 15px;
+}
+
+body{
+margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: black;
+    background-size: cover;
+background-position: center;
+border: cyan;
+    width: 300px;
+    text-align: center;
+    position: center;
+
+}
+
+
+
+}
+button{
+    color: cyan;
+    width: 100%;
+    padding:10px;
+    border-radius: 20px;
+
+
+}
+p{
+    color: cornsilk;
+
+}
+a{
+    color: cornsilk;
+
+}
+h1{
+    color: cornsilk;
+
+}
